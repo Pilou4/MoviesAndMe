@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db9c5488-60e7-46f5-b127-d3bf1703ec7e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +16,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1p25FpunrDTv0mT56LcMf0LO28c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,15 +38,5 @@
       <updated>1614368245541</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="415" y="139" width="1200" height="800" key="AVDManager" timestamp="1614371986111">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state x="415" y="139" width="1200" height="800" key="AVDManager/72.27.1848.1053@72.27.1848.1053" timestamp="1614371986111" />
-    <state x="679" y="245" width="672" height="677" key="run.anything.popup" timestamp="1614371955484">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state x="679" y="245" width="672" height="677" key="run.anything.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1614371955484" />
   </component>
 </project>
